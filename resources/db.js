@@ -12,7 +12,7 @@ var db = {
 	"ALEVE": {"alt": ["ALIVE"], "plu": "14220"},
 	"ALKA-SELTZER": {"alt": [], "plu": "14190"},
 	"APIO": {"alt": ["CELERY"], "plu": "4070"},
-	"ARROZ (BOLSA)": {"alt": ["BOLSA DE ARROZ", "BAG OF RICE"], "plu": "3193"},
+	"ARROZ PESADO": {"alt": ["BOLSA DE ARROZ PESADA", "BAG OF RICE BY WEIGHT"], "plu": "3193"},
 	"ARROZ CHICO 8 OZ": {"alt": [], "plu": "7204", "pr": "$1.49"},
 	"ARROZ GRANDE 32 OZ": {"alt": [], "plu": "7202", "pr": "$5.99"},
 	"ARROZ MEDIANO 16 OZ": {"alt": [], "plu": "7203", "pr": "$2.99"},
