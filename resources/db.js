@@ -87,7 +87,7 @@ var db = {
 	"DAYQUIL": {"alt": ["VICKS DAYQUIL"], "plu": "14229"},
 	"DEFENSOL D": {"alt": [], "plu": "14858"},
 	"DEFENSOLITO": {"alt": [], "plu": "14856"},
-	"DEPOSITO COMIDA P/FIESTA": {"alt": ["DEPOSITO COMIDA PARA FIESTA"], "plu": "7128", "pr": "$1.00"},
+	"DEPOSITO COMIDA P/FIESTA": {"alt": ["DEPOSITO COMIDA PARA FIESTA"], "plu": "7312", "pr": "$1.00"},
 	"DOCENA DE TAMALES": {"alt": ["DOCENA DE PUERCO", "DOCENA DE POLLO", "TAMAL CHICKEN DOZEN", "TAMAL PORK DOZEN", "PORK DOZEN", "CHICKEN DOZEN"], "plu": "7122"},
 	"DONAS": {"alt": ["PAN DONAS", "BAKERY DONUTS", "DONUTS", "DONUTS BAKERY"], "plu": "5553"},
 	"DURAZNO 23-25": {"alt": ["PEACHES 23-25"], "plu": "4037"},
