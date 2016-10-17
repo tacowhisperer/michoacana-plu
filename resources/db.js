@@ -174,6 +174,7 @@ var db = {
 	"MENUDO": {"alt": [], "plu": "7058"},
 	"MENUDO CHICO P/LLEVAR": {"alt": ["MENUDO CHICO PARA LLEVAR", "SMALL MENUDO TO GO"], "plu": "7060"},
 	"MENUDO GRANDE P/LLEVAR": {"alt": ["MENUDO GRANDE PARA LLEVAR", "LARGE MENUDO TO GO"], "plu": "7056"},
+	"MESQUITE MICHOACANA": {"alt": ["LA MICHOACANA MESQUITE GRANDE", "MESQUITE GRANDE MICHOACANA"], "plu": "858468004524"},
 	"MILK SHAKE LG": {"alt": ["SHAKE LG."], "plu": "7004"},
 	"MILK SHAKE MED": {"alt": ["SHAKE MED."], "plu": "7003"},
 	"MINI TACOS": {"alt": ["TACOS MINI", "5 MINI TACOS"], "plu": "7556"},
