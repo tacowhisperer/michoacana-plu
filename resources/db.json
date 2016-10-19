@@ -43,6 +43,7 @@
 	"CAMOTE": {"alt": ["YAMS"], "plu": "4729"},
 	"CAPIROTADA": {"alt": [], "plu": "7300"},
 	"CARNE ASADA AL CARBON": {"alt": [], "plu": "7368"},
+	"CARNE ASADA 1LB": {"alt": ["1LB CARNE ASADA"], "plu": "12.99 TAQUERIA"},
 	"CARNITAS 1/2LB": {"alt": ["MEDIA LIBRA DE CARNITAS"], "plu": "7149"},
 	"CARNITAS 1LB": {"alt": ["LIBRA DE CARNITAS", "UNA LIBRA DE CARNITAS", "1LB DE CARNITAS", "1LB CARNITAS"], "plu": "7147"},
 	"CARNITAS POR PESO": {"alt": [], "plu": "7182"},
